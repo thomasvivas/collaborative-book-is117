@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Unity: neighbors working on a shared garden</title>
+  <desc id="desc">Neighbors from the community work together to plant and care for a shared garden.</desc>
+  <rect width="800" height="450" rx="28" fill="#f3f2e7"/>
+  <circle cx="659" cy="91" r="43" fill="#e9c85d"/>
+  <path d="M0 315c143-31 245 7 376 5 155-1 267-42 424-17v147H0z" fill="#c6d9a9"/>
+  <rect x="289" y="230" width="222" height="113" rx="14" fill="#8b6244"/>
+  <path d="M304 254h192m-192 27h192m-192 27h192" stroke="#b8885d" stroke-width="8"/>
+  <path d="M354 233c-11-50 9-78 38-84 12 34 1 62-38 84m-8 1c-7-37-33-52-59-43 5 34 27 49 59 43m95-1c2-42 25-59 53-55 1 34-18 54-53 55m4 2c7-35 32-51 59-43-5 33-26 49-59 43" fill="#5b9360"/>
+  <path d="M388 244l5-85m66 85l-9-83" stroke="#477b50" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="153" cy="184" r="35" fill="#d8a77f"/>
+  <path d="M117 182c2-43 70-52 76-3-27-4-42-15-52-29-6 17-13 25-24 32" fill="#4a3d36"/>
+  <path d="M104 316c4-79 21-111 50-111s47 32 51 111" fill="#477d91"/>
+  <circle cx="639" cy="184" r="35" fill="#a96f50"/>
+  <path d="M604 182c4-41 68-49 74 0-21-4-40-15-47-28-6 14-15 23-27 28" fill="#34404c"/>
+  <path d="M589 316c4-79 21-111 50-111s47 32 51 111" fill="#ce8060"/>
+  <path d="M187 268l79-37m347 37-80-37" stroke="#8b6244" stroke-width="10" stroke-linecap="round"/>
+  <text x="251" y="397" fill="#294b3b" font-family="Arial,sans-serif" font-size="24" font-weight="700">A shared space, made together</text>
+</svg>

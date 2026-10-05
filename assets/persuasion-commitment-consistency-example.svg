@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Commitment and consistency: a voluntary first step</title>
+  <desc id="desc">A gardener tends a seedling beside three steps labeled orientation, decide, and plot.</desc>
+  <rect width="800" height="450" rx="28" fill="#f3f4e8"/>
+  <circle cx="650" cy="86" r="38" fill="#f0c75e"/>
+  <path d="M0 326c161-51 286-16 409 4 142 24 256-25 391-10v130H0z" fill="#bed8a8"/>
+  <path d="M205 300c22-44 62-49 84-34-20 42-50 53-84 34m16-21c-5-42 18-66 47-70 10 38-7 63-47 70" fill="#4d8a62"/>
+  <path d="M219 302l14-85" stroke="#42734f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M288 305h90m16 0h90m16 0h90" stroke="#8a5d3b" stroke-width="12" stroke-linecap="round"/>
+  <rect x="405" y="207" width="330" height="66" rx="18" fill="#fff" stroke="#54745c" stroke-width="4"/>
+  <rect x="430" y="219" width="44" height="42" rx="21" fill="#d7ebcb"/>
+  <text x="445" y="248" fill="#30533d" font-family="Arial,sans-serif" font-size="22" font-weight="700">1</text>
+  <text x="491" y="250" fill="#243b32" font-family="Arial,sans-serif" font-size="22">Orientation</text>
+  <rect x="405" y="290" width="330" height="66" rx="18" fill="#fff" stroke="#54745c" stroke-width="4"/>
+  <rect x="430" y="302" width="44" height="42" rx="21" fill="#d7ebcb"/>
+  <text x="445" y="331" fill="#30533d" font-family="Arial,sans-serif" font-size="22" font-weight="700">2</text>
+  <text x="491" y="333" fill="#243b32" font-family="Arial,sans-serif" font-size="22">Choose a plot</text>
+  <text x="88" y="393" fill="#243b32" font-family="Arial,sans-serif" font-size="24" font-weight="700">Small steps, freely chosen</text>
+</svg>

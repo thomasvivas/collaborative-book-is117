@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Social proof: a hotel towel-reuse choice</title>
+  <desc id="desc">Three hotel guests each make an individual towel-reuse choice, shown without invented statistics.</desc>
+  <rect width="800" height="450" rx="28" fill="#edf3f1"/>
+  <rect x="79" y="78" width="642" height="296" rx="20" fill="#fff" stroke="#45655c" stroke-width="5"/>
+  <text x="119" y="124" fill="#243b53" font-family="Arial,sans-serif" font-size="25" font-weight="700">HELP SAVE WATER DURING YOUR STAY</text>
+  <path d="M134 200h531" stroke="#d1ddd8" stroke-width="5"/>
+  <g fill="#d8a982">
+    <circle cx="205" cy="190" r="23"/><circle cx="400" cy="190" r="23"/><circle cx="595" cy="190" r="23"/>
+  </g>
+  <g fill="#5c8a7c">
+    <path d="M164 277c3-43 18-67 41-67s39 24 42 67z"/>
+    <path d="M359 277c3-43 18-67 41-67s39 24 42 67z"/>
+    <path d="M554 277c3-43 18-67 41-67s39 24 42 67z"/>
+  </g>
+  <g fill="#fff" stroke="#426c5d" stroke-width="4">
+    <rect x="177" y="294" width="56" height="36" rx="5"/>
+    <rect x="372" y="294" width="56" height="36" rx="5"/>
+    <rect x="567" y="294" width="56" height="36" rx="5"/>
+  </g>
+  <g fill="none" stroke="#426c5d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187 311l8 8 17-19"/><path d="M382 311l8 8 17-19"/><path d="M577 311l8 8 17-19"/>
+  </g>
+  <text x="145" y="355" fill="#52616b" font-family="Arial,sans-serif" font-size="16">Illustrative choices, not survey data</text>
+</svg>

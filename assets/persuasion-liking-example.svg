@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Liking: a welcoming library invitation</title>
+  <desc id="desc">Two neighbors talk beside books and a friendly reading-club invitation.</desc>
+  <rect width="800" height="450" rx="28" fill="#f7efe4"/>
+  <rect x="66" y="75" width="251" height="280" rx="15" fill="#fff" stroke="#d5b99b" stroke-width="5"/>
+  <path d="M93 125h197M93 176h197M93 227h197" stroke="#d5b99b" stroke-width="8"/>
+  <rect x="111" y="94" width="37" height="31" rx="4" fill="#4e7c76"/>
+  <rect x="158" y="85" width="43" height="40" rx="4" fill="#d37b58"/>
+  <rect x="211" y="97" width="33" height="28" rx="4" fill="#e1b54c"/>
+  <rect x="102" y="143" width="43" height="33" rx="4" fill="#dfb14f"/>
+  <rect x="155" y="137" width="32" height="39" rx="4" fill="#728ca0"/>
+  <rect x="196" y="145" width="57" height="31" rx="4" fill="#cb7354"/>
+  <circle cx="418" cy="172" r="43" fill="#e8b994"/>
+  <path d="M375 168c2-46 80-60 89-3-29-5-48-15-58-31-9 18-18 27-31 34" fill="#37485b"/>
+  <path d="M356 332c5-77 27-117 63-117 37 0 62 40 67 117" fill="#5e8e86"/>
+  <circle cx="551" cy="183" r="42" fill="#a96f50"/>
+  <path d="M509 174c7-48 77-49 86-1-21-5-40-18-49-32-8 19-20 27-37 33" fill="#243b53"/>
+  <path d="M488 332c5-76 28-115 63-115 37 0 61 39 67 115" fill="#d18b61"/>
+  <path d="M472 123h224a15 15 0 0 1 15 15v61a15 15 0 0 1-15 15h-72l-27 27v-27H472a15 15 0 0 1-15-15v-61a15 15 0 0 1 15-15" fill="#fff" stroke="#4e7c76" stroke-width="4"/>
+  <text x="490" y="162" fill="#243b53" font-family="Arial,sans-serif" font-size="20" font-weight="700">Reading club</text>
+  <text x="490" y="190" fill="#52616b" font-family="Arial,sans-serif" font-size="17">Everyone welcome</text>
+</svg>
